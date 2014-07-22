@@ -1,0 +1,61 @@
+Alfred:
+open an app
+search google
+search wikipedia
+create custom search
+
+OSX:
+command + tab : switch open applications
+command + ` : switch open applications in reverse
+command + q (while in open applications) : quit an application
+
+Chrome / Sublime / and Bash:
+command + n : create new window
+command + t : create new tab
+command + w : close tab
+command + q : quit application
+command + shift + ] : move right one tab
+command + shift + [ : move left one tab
+command + NUMBER : move to tab number NUMBER
+
+Random:
+(in Chrome) tab, enter : open first link fast
+
+Sublime:
+ctrl + arrows : move one word at a time
+command + arrows : move to beginning and end of line
+shift + above commands : select all the text
+delete + the above : delete all the text
+fn + delete : delete forward
+fn + delete : delete forward
+
+ctrl + g : go to line number
+ctrl + l : center cursor
+command + z : undo
+command + shift + z : redo
+command + / : toggle comment for line
+command + l : select the whole line
+command + x (with highlight) : cut
+command + c (with selection) : copy selection
+command + x (with selection) : cut selection
+command + v : paste most recent cut or copy
+command + shift + v : paste with proper indentation
+command + x : cut the whole line
+command + c : copy the whole line
+command + enter : create new line below
+command + shift + enter : create new line above
+command + shift + d : copy current line below
+command + control + arrows : move entire line up and down
+command + k, command + u : make upper case
+command + k, command + l : make lower case
+command + ' : select all within quotes
+command + shift + ' : select all within quotes, and quotes
+
+command + d : select word(s)
+command + ctrl + g : select all of words
+
+command + p : open file
+command + shift + p : set syntax (and many many other things)
+command + f : find
+command + shift + f : massive find
+command + k, command + b : toggle file bar
