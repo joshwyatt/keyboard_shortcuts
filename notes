@@ -34,6 +34,8 @@ ctrl + l : center cursor
 command + z : undo
 command + shift + z : redo
 command + / : toggle comment for line
+command + ] : shift indenting right
+command + [ : shift indenting left
 command + l : select the whole line
 command + x (with highlight) : cut
 command + c (with selection) : copy selection
