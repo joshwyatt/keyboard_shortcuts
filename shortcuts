@@ -55,6 +55,8 @@ command + shift + ' : select all within quotes, and quotes
 
 command + d : select word(s)
 command + ctrl + g : select all of words
+option + mouseDrag : column select
+command + mouseClick : custom multiple cursor
 
 command + p : open file
 command + shift + p : set syntax (and many many other things)
