@@ -63,3 +63,4 @@ command + shift + p : set syntax (and many many other things)
 command + f : find
 command + shift + f : massive find
 command + k, command + b : toggle file bar
+command + option + NUMBER : split screen
