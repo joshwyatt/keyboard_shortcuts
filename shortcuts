@@ -64,3 +64,5 @@ command + f : find
 command + shift + f : massive find
 command + k, command + b : toggle file bar
 command + option + NUMBER : split screen
+
+command + o, command + shift + . : show hidden files in "Open" file dialog box (Mac)
