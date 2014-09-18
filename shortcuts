@@ -53,7 +53,7 @@ var innerFunction = function(){
 // command + enter : create new line below
 // command + shift + enter : create new line above
 // command + shift + d : copy current line below
-// command + control + arrows : move entire line up and down
+// command + ctrl + arrows : move entire line up and down
 // command + k, command + u : make upper case
 // command + k, command + l : make lower case
 // command + ' : select all within quotes
@@ -65,6 +65,7 @@ var quote = "Wouldn't it be nice to replace this quote with a number?"
 // command + k while selecting words : don't select word 
 // command + ctrl + g : select all of words
 // option + mouseDrag : column select
+// shift + ctrl + arrows: select multiple lines
 // command + mouseClick : custom multiple cursor
 
 // command + p : open file
@@ -73,4 +74,4 @@ var quote = "Wouldn't it be nice to replace this quote with a number?"
 // command + shift + f : massive find
 // command + k, command + b : toggle file bar
 // command + option + NUMBER : split screen
-// control + shift + NUMBER : move current file to pane
+// ctrl + shift + NUMBER : move current file to pane
