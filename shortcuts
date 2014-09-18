@@ -14,8 +14,8 @@
 // command + t : create new tab
 // command + w : close tab
 // command + q : quit application
-// command + shift + ] : move right one tab
-// command + shift + [ : move left one tab
+// command + shift + ] : move right one tab   OR   command + opt + -->   (Chrome and Sublime)
+// command + shift + [ : move left one tab    OR   command + opt + <--   (Chrome and Sublime) 
 // command + NUMBER : move to tab number NUMBER
 
 // Random:
