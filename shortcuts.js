@@ -16,13 +16,19 @@
 // command + q : quit application
 // command + shift + ] : move right one tab
 // command + shift + [ : move left one tab
-// command + NUMBER : move to tab number NUMBER
+// command + NUMBER : move to tab number NUMBER (not in Bash)
 
-// Random:
-// (in Chrome) tab, enter : open first link fast
+// Chrome:
+// command + r : reload page
+// command + option + j : open the javascript console
+// command + shift + i : email link for this page
+// command + arrows : move through history
+// command + shift + t : reopen last closed tab (up to 10)
 
 // Sublime:
-// ctrl + arrows : move one word at a time
+// command + ctrl + f : toggle fullscreen
+
+// option + arrows : move one word at a time
 // command + arrows : move to beginning and end of line
 // shift + above commands : select all the text
 // delete + the above : delete all the text
@@ -48,6 +54,8 @@ var outerFunction = function(){
 var innerFunction = function(){
 
 };
+
+
 // command + x : cut the whole line
 // command + c : copy the whole line
 // command + enter : create new line below
@@ -57,9 +65,13 @@ var innerFunction = function(){
 // command + k, command + u : make upper case
 // command + k, command + l : make lower case
 // command + ' : select all within quotes
-var quote = "Wouldn't it be nice to replace this quote?"
+var quote = "Wouldn't it be nice to replace this quote?";
 // command + shift + ' : select all within quotes, and quotes
-var quote = "Wouldn't it be nice to replace this quote with a number?"
+var quote = "Wouldn't it be nice to replace this quote with a number?";
+// control + m : move to beginning/end of parens and braces
+if('only there were a way to toggle around the parens'){
+  var it = 'would be rad';
+}
 
 // command + d : select word(s)
 // command + k while selecting words : don't select word 
