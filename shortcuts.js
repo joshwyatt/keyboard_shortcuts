@@ -20,6 +20,7 @@
 
 // Chrome:
 // command + r : reload page
+// command + l : highlight location bar
 // command + option + j : open the javascript console
 // command + shift + i : email link for this page
 // command + arrows : move through history
