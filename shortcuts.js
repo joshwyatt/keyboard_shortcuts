@@ -4,6 +4,20 @@
 // search wikipedia
 // create custom search
 
+// gmail
+// setup keyboard shortcuts
+// ? : show keyboard shortcuts
+// j : move downward
+// k : move upward
+// o : open
+// s (while open) : star / unstar
+// - (while open) : unmark as important
+// + (while open) : mark as important
+// r : reply
+// a : reply all
+// # (while open) : delete
+// u : return to main window
+
 // OSX:
 // command + tab : switch open applications
 // command + ` : switch open applications in reverse
@@ -19,6 +33,7 @@
 // command + NUMBER : move to tab number NUMBER (not in Bash)
 
 // Chrome:
+// pin tabs
 // command + r : reload page
 // command + option + j : open the javascript console
 // command + shift + i : email link for this page
@@ -27,6 +42,7 @@
 
 // Sublime:
 // command + ctrl + f : toggle fullscreen
+// command + ctrl + shift + f : toggle distraction free
 
 // option + arrows : move one word at a time
 // command + arrows : move to beginning and end of line
@@ -62,8 +78,8 @@ var innerFunction = function(){
 // command + shift + enter : create new line above
 // command + shift + d : copy current line below
 // command + control + arrows : move entire line up and down
-// command + k, command + u : make upper case
-// command + k, command + l : make lower case
+// command + k, command + u : make selection upper case
+// command + k, command + l : make selection lower case
 // command + ' : select all within quotes
 var quote = "Wouldn't it be nice to replace this quote?";
 // command + shift + ' : select all within quotes, and quotes
