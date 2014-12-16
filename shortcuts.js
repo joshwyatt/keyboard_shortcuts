@@ -13,6 +13,7 @@
 // s (while open) : star / unstar
 // - (while open) : unmark as important
 // + (while open) : mark as important
+// e : archive
 // r : reply
 // a : reply all
 // # (while open) : delete
@@ -26,6 +27,7 @@
 // Chrome / Sublime / and Bash:
 // command + n : create new window
 // command + t : create new tab
+// command + shift + t : reopen last closed tab (not in Bash)
 // command + w : close tab
 // command + q : quit application
 // command + shift + ] : move right one tab
@@ -37,8 +39,8 @@
 // command + r : reload page
 // command + option + j : open the javascript console
 // command + shift + i : email link for this page
-// command + arrows : move through history
-// command + shift + t : reopen last closed tab (up to 10)
+// command + [ : move backward through history
+// command + ] : move forward through history
 
 // Sublime:
 // command + ctrl + f : toggle fullscreen
@@ -71,7 +73,7 @@ var innerFunction = function(){
 
 };
 
-
+// control + shift + k : delete the whole line
 // command + x : cut the whole line
 // command + c : copy the whole line
 // command + enter : create new line below
