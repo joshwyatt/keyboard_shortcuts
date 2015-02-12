@@ -1,4 +1,4 @@
-// Alfred:
+// Alfred (install it):
 // open an app
 // search google
 // search wikipedia
@@ -12,11 +12,8 @@
 // k : move upward
 // o : open
 // s (while open) : star / unstar
-// - (while open) : unmark as important
-// + (while open) : mark as important
 // r : reply
 // a : reply all
-// # (while open) : delete
 // u : return to main window
 
 // OSX:
@@ -25,26 +22,26 @@
 // command + q (while in open applications) : quit an application
 
 // Chrome / Sublime / and Bash:
-// command + n : create new window
-// command + t : create new tab
+// command + n : create new window (shift + command + n for Sublime)
+// command + t : create new tab (command + n for Sublime)
 // command + w : close tab
 // command + q : quit application
 // command + shift + ] : move right one tab
 // command + shift + [ : move left one tab
 // command + NUMBER : move to tab number NUMBER (not in Bash)
 
+// Vimium (install it first):
+// j : scroll down
+// k : scroll up
+// f : show links
+
 // Chrome:
 // pin tabs
 // command + r : reload page
 // command + option + j : open the javascript console
-// command + shift + i : email link for this page
-// command + arrows : move through history
+// command + ] : move forward through history
+// command + [ : move backward through history
 // command + shift + t : reopen last closed tab (up to 10)
-
-// Vimium:
-// j : scroll down
-// k : scroll up
-// f : show links
 
 // Sublime:
 // command + ctrl + f : toggle fullscreen
