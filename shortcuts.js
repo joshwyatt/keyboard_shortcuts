@@ -93,12 +93,13 @@ if('only there were a way to toggle around the parens'){
 }
 
 // command + d : select word(s)
-// command + k while selecting words : don't select word 
+// command + k while selecting words : don't select word
 // command + ctrl + g : select all of words
 // option + mouseDrag : column select
 // command + mouseClick : custom multiple cursor
 
-// command + p : open file
+// command + p : goto anything (use with :line_number, @symbol, #term)
+// command + r : search all function names in current file
 // command + shift + p : set syntax (and many many other things)
 // command + f : find
 // command + shift + f : massive find
