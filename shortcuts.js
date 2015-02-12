@@ -67,7 +67,7 @@
 
 // command + p, then ':' + number, goes to any line number.
 // command + r : search by function name (also command + p, then @ sign)
-// command + p, then file name + '@', takes you to that function in that file
+// command + p, then file name + '@' + function, takes you to that function in that file
 
 
 
