@@ -65,10 +65,9 @@
 // command + v : paste most recent cut or copy
 // command + shift + v : paste with proper indentation
 
-// Command + R : search by function name in the project
-// alternatively you can Command + P, then @ sign
+// command + p, then ':' + number, goes to any line number.
+// command + r : search by function name in the project (also command + p, then @ sign)
 
-// Command + P, then ':' + number, goes to any line.
 
 var outerFunction = function(){
 
