@@ -6,6 +6,7 @@
 
 // gmail
 // setup keyboard shortcuts
+// setup priority inbox
 // ? : show keyboard shortcuts
 // j : move downward
 // k : move upward
@@ -39,6 +40,11 @@
 // command + shift + i : email link for this page
 // command + arrows : move through history
 // command + shift + t : reopen last closed tab (up to 10)
+
+// Vimium:
+// j : scroll down
+// k : scroll up
+// f : show links
 
 // Sublime:
 // command + ctrl + f : toggle fullscreen
