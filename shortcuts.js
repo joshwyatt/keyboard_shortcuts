@@ -18,7 +18,8 @@
 
 // OSX:
 // command + tab : switch open applications
-// command + ` : switch open applications in reverse
+// command + ` : (when already in command + tab) switch open applications in reverse
+// command + ` : goes between different windows of current program
 // command + q (while in open applications) : quit an application
 
 // Chrome / Sublime / and Bash:
