@@ -52,6 +52,7 @@
 // shift + above commands : select all the text
 // delete + the above : delete all the text
 // fn + delete : delete forward
+// fn + up / down : page up / page down
 
 // command + z : undo
 // command + shift + z : redo
