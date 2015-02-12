@@ -29,6 +29,8 @@
 // command + shift + ] : move right one tab
 // command + shift + [ : move left one tab
 // command + NUMBER : move to tab number NUMBER (not in Bash)
+// fn + up : page up
+// fn + down : page down
 
 // Vimium (install it first):
 // j : scroll down
