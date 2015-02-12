@@ -3,6 +3,7 @@
 // search google
 // search wikipedia
 // create custom search
+// use as calculator, press enter to copy result
 
 // gmail
 // setup keyboard shortcuts
