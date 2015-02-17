@@ -22,6 +22,7 @@
 // command + ` : (when already in command + tab) switch open applications in reverse
 // command + ` : goes between different windows of current program
 // command + q (while in open applications) : quit an application
+// control + t : switches the last two characters teh -> the (don't work in Sublime)
 
 // Chrome / Sublime / and Bash:
 // command + n : create new window (shift + command + n for Sublime)
@@ -68,6 +69,12 @@
 // command + x (with selection) : cut selection
 // command + v : paste most recent cut or copy
 // command + shift + v : paste with proper indentation
+
+// command + p, then ':' + number, goes to any line number.
+// command + r : search by function name (also command + p, then @ sign)
+// command + p, then file name + '@' + function, takes you to that function in that file
+
+
 
 var outerFunction = function(){
 
