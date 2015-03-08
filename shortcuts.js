@@ -46,6 +46,7 @@
 // command + ] : move forward through history
 // command + [ : move backward through history
 // command + shift + t : reopen last closed tab (up to 10)
+// command + l : select address bar
 
 // Sublime:
 // command + ctrl + f : toggle fullscreen
