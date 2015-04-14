@@ -1,4 +1,4 @@
-// Alfred (install it):
+// Alfred (install it): http://www.alfredapp.com/
 // open an app
 // search google
 // search wikipedia
@@ -16,6 +16,7 @@
 // r : reply
 // a : reply all
 // u : return to main window
+// gi : return to inbox
 
 // OSX:
 // command + tab : switch open applications
@@ -23,10 +24,11 @@
 // command + ` : goes between different windows of current program
 // command + q (while in open applications) : quit an application
 
-// Chrome / Sublime / and Bash:
+// Chrome / Sublime / and Bash / and most apps with tabs:
 // command + n : create new window (shift + command + n for Sublime)
 // command + t : create new tab (command + n for Sublime)
-// command + w : close tab
+// command + w : close tab or window if only one tab
+// shift + command + w : close widow with multiple open tabs
 // command + q : quit application
 // command + shift + ] : move right one tab
 // command + shift + [ : move left one tab
@@ -34,7 +36,7 @@
 // fn + up : page up
 // fn + down : page down
 
-// Vimium (install it first):
+// Vimium (install it first): https://vimium.github.io/
 // j : scroll down
 // k : scroll up
 // f : show links
@@ -57,6 +59,7 @@
 // delete + the above : delete all the text
 // fn + delete : delete forward
 // fn + up / down : page up / page down
+// fn + right / left : beginning and end of file
 
 // command + z : undo
 // command + shift + z : redo
