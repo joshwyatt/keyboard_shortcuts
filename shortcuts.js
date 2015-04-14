@@ -58,6 +58,8 @@
 // shift + above commands : select all the text
 // delete + the above : delete all the text
 // fn + delete : delete forward
+// command + k, command k : delete to end of line
+// command + k, command delete : delete to beginning of line
 // fn + up / down : page up / page down
 // fn + right / left : beginning and end of file
 
