@@ -1,4 +1,5 @@
 // Alfred (install it): http://www.alfredapp.com/
+// option + spacebar opens Alfred and that allows you to do the following:
 // open an app
 // search google
 // search wikipedia
