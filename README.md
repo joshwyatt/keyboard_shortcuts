@@ -154,6 +154,8 @@ You can use Alfred to
 
 `command + shift + z` : redo
 
+`command + y` :redo
+
 `command + /` : toggle comment for line
 
 `command + ]` : shift indenting right
