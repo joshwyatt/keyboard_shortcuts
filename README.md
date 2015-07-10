@@ -67,6 +67,8 @@ You can use Alfred to
 
 `fn + down` : page down
 
+`alt + command + arrow keys` : move right or left tabs
+
 ## Vimium
 [Install it first](https://vimium.github.io/)
 
