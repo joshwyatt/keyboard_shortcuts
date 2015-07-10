@@ -127,6 +127,8 @@ You can use Alfred to
 
 `command + shift + t` : reopen last closed tab (up to 10)
 
+`command + l` : select address bar
+
 ## Sublime
 `command + ctrl + f` : toggle fullscreen
 
