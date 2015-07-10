@@ -53,7 +53,7 @@ You can use Alfred to
 
 `command + w` : close tab or window if only one tab
 
-`shift + command + w` : close widow with multiple open tabs
+`shift + command + w` : close window with multiple open tabs
 
 `command + q` : quit application
 
