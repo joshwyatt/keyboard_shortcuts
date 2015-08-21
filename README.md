@@ -180,7 +180,7 @@ You can use Alfred to
 
 `command + enter` : create new line below
 
-`command + shift` + enter : create new line above
+`command + shift + enter` : create new line above
 
 `command + shift + d` : copy current line below
 
