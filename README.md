@@ -1,6 +1,7 @@
 # Shortcut Commands
 
-## Alfred 
+## Alfred
+A Spotlight replacement which boosts your efficiency with hotkeys and keywords. Search your Mac and the web effortlessly.
 
 [install it here](http://www.alfredapp.com/)
 
@@ -70,6 +71,8 @@ You can use Alfred to
 `alt + command + arrow keys` : move right or left tabs
 
 ## Vimium
+A Chrome plugin using keyboard shortcuts for navigation and control in the spirit of Vim.
+
 [Install it first](https://vimium.github.io/)
 
 `?` : show commands
