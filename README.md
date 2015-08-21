@@ -1,6 +1,6 @@
 # Shortcut Commands
 
-## Alfred 
+## Alfred
 
 [install it here](http://www.alfredapp.com/)
 
@@ -57,9 +57,9 @@ You can use Alfred to
 
 `command + q` : quit application
 
-`command + shift + ]` : move right one tab
+`command + shift + ]` or `ctrl + tab` : move right one tab
 
-`command + shift + [` : move left one tab
+`command + shift + [` or `ctrl + shift + tab` : move left one tab
 
 `command + NUMBER` : move to tab number NUMBER (not in Bash)
 
