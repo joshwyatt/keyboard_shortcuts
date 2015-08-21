@@ -204,6 +204,8 @@ You can use Alfred to
 
 `command + mouseClick` : custom multiple cursor
 
+`command + shift + l` : multi line cursor based on selection
+
 `command + p` : goto anything (use with :line_number, @symbol, #term)
 
 `command + r` : search all function names in current file
@@ -219,5 +221,3 @@ You can use Alfred to
 `command + option + NUMBER` : split screen
 
 `control + shift + NUMBER` : move current file to pane
-
-`command + shift + l` : multi line cursor based on selection
