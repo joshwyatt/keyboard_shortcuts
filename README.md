@@ -45,6 +45,8 @@ You can use Alfred to
 
 `command + q` (while in open applications) : quit an application
 
+`command + ,` : open settings in many apps (`command + shift + ,` for System Preferences) 
+
 ## Chrome / Sublime /  Bash / most apps with tabs
 
 `command + n` : create new window (`shift + command + n` for Sublime)
