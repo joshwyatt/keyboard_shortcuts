@@ -160,6 +160,8 @@ You can use Alfred to
 
 `command + /` : toggle comment for line
 
+`command + option + /` : toggle multi-line comment for selected lines, or open empty multi-line comment
+
 `command + ]` : shift indenting right
 
 `command + [` : shift indenting left
