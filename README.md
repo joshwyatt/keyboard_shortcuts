@@ -202,6 +202,8 @@ You can use Alfred to
 
 `command + d` : select word(s)
 
+`command + shift + a` : expand selection to entire HTML element
+
 `command + k` while selecting words : don't select word
 
 `command + ctrl + g` : select all of words
