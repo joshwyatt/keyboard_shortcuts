@@ -65,6 +65,10 @@ You can use Alfred to
 
 `command + NUMBER` : move to tab number NUMBER (not in Bash)
 
+`command + shift + 3` : screenshot - entire screen
+
+`command + shift + 4` : selective screenshot - click and drag mouse to capture a portion of the screen
+
 `fn + up` : page up
 
 `fn + down` : page down
