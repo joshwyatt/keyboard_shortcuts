@@ -131,6 +131,9 @@ You can use Alfred to
 
 `command + l` : select address bar
 
+`command + ctrl + space` : open emoji & symbol keyboard
+
+
 ## Sublime
 `command + ctrl + f` : toggle fullscreen
 
