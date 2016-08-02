@@ -150,10 +150,6 @@ You can use Alfred to
 
 `fn + delete` : delete forward
 
-`command + k`, command k : delete to end of line
-
-`command + k`, command delete : delete to beginning of line
-
 `fn + up / down` : page up / page down
 
 `fn + right / left` : beginning and end of file
@@ -199,13 +195,11 @@ You can use Alfred to
 
 `command + k, command + l` : make selection lower case
 
-`command + '` : select all within quotes
-
 `control + m` : move to beginning/end of parens and braces
 
-`command + d` : select word(s)
-
 `command + shift + a` : expand selection to entire HTML element
+
+`command + d` : select word(s)
 
 `command + k` while selecting words : don't select word
 
