@@ -1,10 +1,16 @@
 # Shortcut Commands
 
+## Spotlight (on OSX)
+
+`command + space bar` : opens Spotlight
+
+You can use Spotlight to open applications, search for files on your hard drive. or use as a simple calculator.
+
 ## Alfred
 
 [install it here](http://www.alfredapp.com/)
 
-You can use Alfred to
+Alfred can do much more than Spotlight. You can use Alfred to
 - open an app
 - search google
 - search wikipedia
@@ -24,9 +30,9 @@ You can use Alfred to
 
 `k` : move upward
 
-`o` : open
+`x` : select message
 
-`s` (while open) : star / unstar
+`o` or `Enter` : open
 
 `r` : reply
 
@@ -34,7 +40,17 @@ You can use Alfred to
 
 `u` : return to main window
 
-`gi` : return to inbox
+`gi` : go to inbox
+
+`gl` : go to any label
+
+with message(s) open or selected:
+
+`v` : move to any label
+
+`#` : send to trash
+
+`s` : star / unstar
 
 ## OSX
 `command + tab` : switch open applications
@@ -80,12 +96,6 @@ You can use Alfred to
 
 `k` : scroll up
 
-`f` : show links
-
-`F` : show links to be opened in new tab
-
-`option + f` : open multiple links in different tabs
-
 `gg` : go to top of page
 
 `G` : go to bottom of page
@@ -93,6 +103,10 @@ You can use Alfred to
 `u` : scroll up more quickly
 
 `d` : scroll down more quickly
+
+`f` : show links (capitalize link shortcuts to open in new tabs)
+
+`option + f` : open multiple links in different tabs
 
 `yy` : copy clipboard contents
 
@@ -106,7 +120,7 @@ You can use Alfred to
 
 `gU` : to the root URL
 
-`/` : find mode...`return` to toggle
+`/` : find mode...`return`, then `n` to toggle
 
 `yt` : duplicate current tab
 
@@ -133,6 +147,11 @@ You can use Alfred to
 
 `command + ctrl + space` : open emoji & symbol keyboard
 
+`command + l`, type `javascript:`, hit `Enter` : switch focus from javascript console to web page
+
+see Stack Overflow [post](http://stackoverflow.com/questions/12823333/keyboard-shortcut-to-switch-focus-from-web-developer-tools-to-page-in-chrome-on/30567119#30567119) for how to shorten `javascript:` to `j`
+
+`command + shift + c` (twice) : switch focus from web page to already-open javascript console
 
 ## Sublime
 `command + ctrl + f` : toggle fullscreen
@@ -201,7 +220,7 @@ You can use Alfred to
 
 `command + d` : select word(s)
 
-`command + k` while selecting words : don't select word
+`command + d`, `command + k` : skips selection of word
 
 `command + ctrl + g` : select all of words
 
