@@ -47,6 +47,10 @@ You can use Alfred to
 
 `command + d` : when given "don't save, cancel, and save", triggers "don't save"; also short for saving something to the desktop
 
+`command + shift + 3` : screenshot - entire screen
+
+`command + shift + 4` : selective screenshot - click and drag mouse to capture a portion of the screen
+
 ## Chrome / Sublime /  Bash / most apps with tabs
 
 `command + n` : create new window (`shift + command + n` for Sublime)
@@ -64,10 +68,6 @@ You can use Alfred to
 `command + shift + [` or `ctrl + shift + tab` : move left one tab
 
 `command + NUMBER` : move to tab number NUMBER (not in Bash)
-
-`command + shift + 3` : screenshot - entire screen
-
-`command + shift + 4` : selective screenshot - click and drag mouse to capture a portion of the screen
 
 `fn + up` : page up
 
