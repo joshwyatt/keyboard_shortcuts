@@ -67,6 +67,34 @@ with message(s) open or selected:
 
 `command + shift + 4` : selective screenshot - click and drag mouse to capture a portion of the screen
 
+## Terminal / Bash
+
+`↑` and `↓` : cycle through command history
+
+`ctrl + a` : move cursor to the beginning of line
+
+`ctrl + e` : move cursor to the end of line
+
+`ctrl + u` : clear from cursor to the beginning of line
+
+`ctrl + k` : clear from cursor to the end of line
+
+`!!` : last command, e.g. `sudo !!`, `!! > log.txt`
+
+`alias | grep <search-term>` : search through aliases
+
+`echo "Hello"` : print out "Hello"
+
+`echo "Hello" | pbcopy` : pipe the output of `echo` to the clipboard
+
+`pbpaste` : paste in (print) content from the clipboard
+
+`pwd` : print (show) current working directory
+
+`pushd <path>` : push current directory onto a stack, then jump to `path`; when `path` is ommitted, it jumps to the directory at the top of the stack. Using this command repeatedly allows you to jump back and forth between the last two directories.
+
+`popd` : jump to the directory at the top of a stack, and removing it from the stack.
+
 ## Chrome / Sublime /  Bash / most apps with tabs
 
 `command + n` : create new window (`shift + command + n` for Sublime)
